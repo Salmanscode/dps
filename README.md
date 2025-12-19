@@ -95,9 +95,4 @@ This approach ensures that the application remains functional and accurate witho
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-*Made with ❤️ for efficient fleet operations.*
+Made by Md Salman Nasir
